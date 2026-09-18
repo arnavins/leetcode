@@ -8,3 +8,19 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-09-07 |
 | 229 | [Majority Element II](229-majority-element-ii/) | Medium | 2026-09-07 |
 <!-- LEETHUB:TABLE:END -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+<!---LeetCode Topics End-->
