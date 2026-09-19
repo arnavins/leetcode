@@ -15,12 +15,15 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
