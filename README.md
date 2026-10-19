@@ -16,6 +16,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | ------- |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
+| [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/arnavins/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
