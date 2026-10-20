@@ -14,6 +14,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arnavins/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -21,6 +22,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arnavins/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,4 +44,8 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arnavins/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
