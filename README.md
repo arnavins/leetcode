@@ -16,6 +16,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavins/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/arnavins/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavins/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/arnavins/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/arnavins/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
@@ -48,4 +50,16 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavins/leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arnavins/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arnavins/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arnavins/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
