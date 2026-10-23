@@ -19,6 +19,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | [0042-trapping-rain-water](https://github.com/arnavins/leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/arnavins/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/arnavins/leetcode/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavins/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arnavins/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavins/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
