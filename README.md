@@ -24,6 +24,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +75,12 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arnavins/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
