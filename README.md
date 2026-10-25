@@ -24,6 +24,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnavins/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnavins/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -80,10 +82,12 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnavins/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/arnavins/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
