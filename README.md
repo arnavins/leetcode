@@ -41,6 +41,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3811-reverse-degree-of-a-string](https://github.com/arnavins/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -78,9 +79,14 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
