@@ -44,6 +44,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arnavins/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3811-reverse-degree-of-a-string](https://github.com/arnavins/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -83,6 +84,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arnavins/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/arnavins/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavins/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavins/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -95,5 +97,6 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavins/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arnavins/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/arnavins/leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
