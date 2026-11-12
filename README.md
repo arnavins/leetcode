@@ -29,6 +29,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavins/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/arnavins/leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arnavins/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/arnavins/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -70,6 +71,7 @@ Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavins/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavins/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/arnavins/leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arnavins/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arnavins/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnavins/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavins/leetcode/tree/master/1004-max-consecutive-ones-iii) |
